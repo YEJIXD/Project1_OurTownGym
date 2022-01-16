@@ -34,15 +34,7 @@
 <h2>3. 화면 설계</h2>
 <h4>기간 : 21.09.29 ~ 21.10.08</h4>
 <h4>PPT - https://docs.google.com/presentation/d/1u8XdinGANhZ9pr9Wk95EaESlVytija-VZaIoQtoNFiM/edit#slide=id.p</h4>
-<br>
-<ul>
-	<li>김성민<br>https://ovenapp.io/view/YO4InRqeyHOG2KFCG9oUnlpb87YGZAjh/</li>
-	<li>노경언<br>https://ovenapp.io/view/t2DOsmfS9tqPX7rsMiafdI99O57Ii1pu/</li>
-	<li>박지영<br> https://ovenapp.io/view/smfKzKxkLmxQBqBEKG72pZHa336b2JNC/</li>
-	<li>엄요한<br> https://ovenapp.io/view/mQgkKZQqhF1hCclCZaCJ57cwP7Xi1nx4/</li>
-	<li>윤예지<br> https://ovenapp.io/project/pEBHAg2Unnokj6UTBHhpB0h6ahqARTCm/#K96Ag</li>
-	<li>임종욱<br> https://ovenapp.io/view/FDfvsI5pkChAZFYPraBLI7Cpg77OIRke/</li>
-</ul>
+<h4>kakao_Oven - https://ovenapp.io/project/702dto9um6Xvq35lAqXttXIsoZ40YCfZ#ibrq9</h4>
 <br>
 
 <h2>4. DB 설계</h2>
