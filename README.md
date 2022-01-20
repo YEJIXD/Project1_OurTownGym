@@ -1,4 +1,5 @@
-<h1 align="center">프로젝트 : 우리동네 헬스장 </h1>
+<h1 align="center"> P R O J E C T _ 1 </h1>
+<h1 align="center"> 우리동네 헬스장 </h1>
 <br><br>
 <br>
 <img width="1068" alt="1" src="https://user-images.githubusercontent.com/91119005/149515540-f123ffa0-c00e-4cd3-895d-54f96aaec3bc.PNG">
